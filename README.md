@@ -1,0 +1,3 @@
+As the [lokalise podspec](https://github.com/lokalise/lokalise-ios-framework/blob/0.10.2/Lokalise.podspec#L32-L36) will add `EXCLUDED_ARCHS[sdk=iphonesimulator*] = arm64` to all cocoapods generated .xcconfig files, it'll make other pods not build the arm64 slice
+
+Try building this project with and without the `pod 'Lokalise', '~> 0.10.2'` line in the Podfile (and the `import`) to see how lokalise breaks the build.

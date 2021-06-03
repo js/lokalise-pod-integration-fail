@@ -1,0 +1,25 @@
+PODS:
+  - Lokalise (0.10.2)
+  - ReactiveCocoa (11.2.1):
+    - ReactiveSwift (~> 6.6)
+  - ReactiveSwift (6.6.0)
+
+DEPENDENCIES:
+  - Lokalise (~> 0.10.2)
+  - ReactiveCocoa (~> 11.2.1)
+  - ReactiveSwift (~> 6.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Lokalise
+    - ReactiveCocoa
+    - ReactiveSwift
+
+SPEC CHECKSUMS:
+  Lokalise: 252c397887dfd9983331abffa90ab60cdb004e19
+  ReactiveCocoa: 194289e7069037d40c59cb4ae9230f4b1ec05fa8
+  ReactiveSwift: be9407e2aaf8a11e53a5229255693cffd9a63ccf
+
+PODFILE CHECKSUM: a2c1348e28a6733a6dc9339fdbd85ba4cd90912b
+
+COCOAPODS: 1.10.1

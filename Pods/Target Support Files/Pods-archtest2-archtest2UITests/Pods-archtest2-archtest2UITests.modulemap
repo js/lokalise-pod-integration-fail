@@ -1,0 +1,6 @@
+framework module Pods_archtest2_archtest2UITests {
+  umbrella header "Pods-archtest2-archtest2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

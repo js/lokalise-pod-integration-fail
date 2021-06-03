@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-archtest2-archtest2UITests/Pods-archtest2-archtest2UITests-frameworks.sh
+${PODS_ROOT}/Lokalise/Lokalise.framework
+${BUILT_PRODUCTS_DIR}/ReactiveCocoa/ReactiveCocoa.framework
+${BUILT_PRODUCTS_DIR}/ReactiveSwift/ReactiveSwift.framework
